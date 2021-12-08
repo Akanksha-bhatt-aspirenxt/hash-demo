@@ -9,7 +9,7 @@ resource "aws_workspaces_directory" "this" {
 
   self_service_permissions {
 
-    change_compute_type  = false
+    change_compute_type  = true
 
     increase_volume_size = true
 
