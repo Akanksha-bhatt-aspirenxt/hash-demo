@@ -11,5 +11,4 @@ data "aws_workspaces_bundle" "admin_windows_10" {
 data "vault_aws_access_credentials" "creds" {
   backend = "aws"
   role = "accessrole"
-  
 }
