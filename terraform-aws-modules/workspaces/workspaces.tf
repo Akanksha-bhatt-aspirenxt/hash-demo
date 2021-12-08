@@ -5,7 +5,7 @@ resource "aws_workspaces_workspace" "workspaces" {
 
   root_volume_encryption_enabled = false
   user_volume_encryption_enabled = false
-  # volume_encryption_key          = var.volume_encryption_key
+  
 
   workspace_properties {
     compute_type_name                         = var.compute_type_name
