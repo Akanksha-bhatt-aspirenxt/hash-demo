@@ -92,5 +92,5 @@ variable "workspaces_usernames" {
 variable "custom_bundle" {
   type        = string
   description = "Bundle Id created by Admin Workspace"
-  default     = "wsb-6cbvhvv9f"
+  default     = "wsb-bnsp8kfhg"
 }
