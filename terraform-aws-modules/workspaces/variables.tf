@@ -8,8 +8,6 @@ variable "bundle_id" {
 variable "directory_id" {
 }
 
-#variable "volume_encryption_key" {
-#}
 
 #workspace properties
 
