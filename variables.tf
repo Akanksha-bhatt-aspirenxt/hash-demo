@@ -81,16 +81,3 @@ variable "running_mode" {
   default     = "ALWAYS_ON"
 }
 
-# Fleet_of_workspaces
-
-variable "workspaces_usernames" {
-  type        = list(any)
-  description = "User Name for fleet of Workspaces"
-  default     = ["Akanksha", "Chandrashekhar", "Anirudh"]
-}
-
-variable "custom_bundle" {
-  type        = string
-  description = "Bundle Id created by Admin Workspace"
-  default     = "wsb-bnsp8kfhg"
-}
