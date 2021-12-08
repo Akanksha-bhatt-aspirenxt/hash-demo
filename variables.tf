@@ -78,7 +78,7 @@ variable "root_volume" {
 variable "running_mode" {
   type        = string
   description = "running mode"
-  default     = "AUTO_STOP"
+  default     = "ALWAYS_ON"
 }
 
 # Fleet_of_workspaces
