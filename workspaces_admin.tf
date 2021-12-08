@@ -13,5 +13,5 @@ module "admin_workspace" {
   user_volume_size_gib = var.user_volume
   root_volume_size_gib = var.root_volume
   running_mode         = var.running_mode
-  running_mode_auto_stop_timeout_in_minutes = 60
+  # running_mode_auto_stop_timeout_in_minutes = 60
 }
