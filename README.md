@@ -1,4 +1,4 @@
-# hash-demo
+
 ## HashiCorp Hackstravanganza
 ### AspireNXT – Rebels
 
