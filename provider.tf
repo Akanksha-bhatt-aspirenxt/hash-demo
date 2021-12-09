@@ -1,6 +1,6 @@
 provider "vault" {
   address = "https://vault-test-cluster.vault.4edd11ce-3831-4b19-b273-112c96dc7cdc.aws.hashicorp.cloud:8200"
-  token = "s.ZouFEAroct7Jg4fCwUPzOtEn.Q0Pfa"
+  token = "s.K0NeqfWbdIsDlnB8svpA0IRd.Q0Pfa"
 }
 
 provider "aws" {
